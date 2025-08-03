@@ -1,0 +1,4 @@
+A robotic arm with a white and black design is the main subje...
+2025-06-15 17:12:33,427 - INFO - Starting video processing: /root/synphony/datasets/stack_rings_blue/videos/chunk-000/observation.images.realsense/episode_000000.mp4 -> /root/synphony/datasets/stack_rings_blue/videos/chunk-000/observation.images.realsense/episode_000010.mp4
+2025-06-15 17:23:34,445 - INFO - Video processing completed successfully: /root/synphony/datasets/stack_rings_blue/videos/chunk-000/observation.images.realsense/episode_000010.mp4
+2025-06-15 17:23:36,445 - INFO - Successfully processed video 1/10

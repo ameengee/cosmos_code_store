@@ -1,0 +1,56 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+# Please keep requirements sorted alphabetically
+
+apex==0.9.10dev
+attr==0.3.2
+attrs==25.3.0
+better_profanity==0.7.0
+cloudpickle==3.1.1
+decord==0.6.0
+dill==0.4.0
+einops==0.8.1
+hydra-core==1.3.2
+imageio[pyav,ffmpeg]==2.37.0
+iopath==0.1.10
+loguru==0.7.3
+matplotlib==3.10.3
+mediapy==1.2.4
+megatron_core==0.10.0
+natsort==8.4.0
+nltk==3.9.1
+numpy==2.2.6
+nvidia_ml_py==12.570.86
+omegaconf==2.3.0
+opencv_python==4.10.0.84
+opencv_python_headless==4.11.0.86
+packaging==25.0
+pandas==2.2.3
+peft==0.14.0
+Pillow==11.2.1
+pillow
+pycocotools==2.0.8
+pynvml==12.0.0
+python-magic
+PyYAML==6.0.2
+retinaface_py==0.0.2
+rtmlib==0.0.13
+sam2==1.1.0
+termcolor==3.1.0
+torch==2.7.0
+torchvision==0.22.0
+tqdm==4.67.1
+transformers==4.49.0
